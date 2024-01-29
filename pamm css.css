@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff; /* Color de fondo blanco */
+    color: #333; /* Color de texto oscuro */
+    margin: 0;
+}
+
+header {
+    background-color: #ff6f61; /* Color de fondo naranja */
+    color: #fff; /* Color de texto blanco */
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: #ff6f61; /* Color de texto naranja */
+}
+
+curso {
+    border: 1px solid #ff6f61; /* Borde del curso naranja */
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #ff6f61; /* Color de fondo naranja */
+    color: #fff; /* Color de texto blanco */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
